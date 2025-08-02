@@ -48,7 +48,7 @@ O projeto foi estruturado utilizando Programação Orientada a Objetos para orga
 Para executar este projeto, você precisa ter o Python e o Pygame instalados.
 ```bash
 pip install pygame
-
+```
 ---
 
 ## 🚀 Como Jogar
